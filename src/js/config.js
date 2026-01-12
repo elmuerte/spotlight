@@ -16,7 +16,7 @@ export const controls = [
 
 export const controls_default = {
 
-    "info": 1,
+    "info": 0,
     "page": 1,
     "close": 1,
     "autofit": 1,
